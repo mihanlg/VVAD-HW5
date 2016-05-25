@@ -1,3 +1,7 @@
-TweetObject/TweetsContainer.class
-TweetObject/Tweet.class
+TweetObjects/Tweet.class
+TweetObjects/TweetsList.class
+TweetObjects/Tweet$FavoriteCountComparator.class
+TweetObjects/Tweet$TimestampComparator.class
+TweetObjects/TweetsContainer.class
 TwitterAPI/Accessor.class
+TweetObjects/Tweet$RetweetCountComparator.class
