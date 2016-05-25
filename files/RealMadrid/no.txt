@@ -1,0 +1,1 @@
+{"soccer":0.0625,"spain":0.0625,"realmadrid":0.0625,"futball":0.0625,"logo":0.0625,"madrid":0.0625,"hartofaboiler":0.0625,"crest":0.0625}

@@ -1,0 +1,1 @@
+{"ChampionsLeagueFinal2016":0.05,"AntoineGriezmann":0.05,"Bermain":0.05,"Diego":0.05,"AtleticoMadrid":0.1,"Ramos":0.05,"Madridista":0.05,"Griezmann":0.1,"Jelek":0.05,"Antoine":0.05,"Simeone":0.05,"Believes":0.05,"Ingin":0.05}

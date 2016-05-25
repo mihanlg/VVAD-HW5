@@ -1,0 +1,1 @@
+{"stunned":0.04,"atleticomadrid":0.04,"fortress":0.04,"chest":0.04,"transfer":0.04,"Pellegrini":0.04,"Barcelona":0.12,"MCFC":0.04,"opens":0.04,"AtleticoMadrid":0.08,"Manuel":0.04,"Koke":0.04}

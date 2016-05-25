@@ -1,0 +1,1 @@
+{"Ramos":0.04,"misser":0.04,"fodbold":0.04,"lldk":0.04,"finale":0.04,"realmadrid":0.08,"United":0.04,"Godt":0.04,"Franskmand":0.04,"laligadk":0.04,"ikke":0.04,"cldk":0.04}
